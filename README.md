@@ -1,7 +1,7 @@
 # Sliding Puzzle Game
 
 Steps to Download:
-1. Download the Zip Code
+1. Download the Zip File
 2. Open the index.html in browser of your choice ( Tested with Chrome )
 3. Click on "New Game" and Enjoy the Game
 
