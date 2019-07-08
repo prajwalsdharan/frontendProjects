@@ -4,7 +4,7 @@ Installation steps :
 1. Open the index.html in browser of your choice ( Tested with Chrome )
 2. Click on "New Game" and Enjoy the Game
 
-Note: The game would use some of your localStorage capabilities of your browser
+Note: The game would use some of the localStorage capabilities of your browser
 
 Functionalities:
 
@@ -17,7 +17,7 @@ Functionalities:
 
 Assumptions made:
 
-1. The Shuffle function would do a maximum of 50 swaps ( can be extended in coden - hardcoded as of now , but would require more memory for more number of swaps - can support upto browser custom memory size )
+1. The Shuffle function would do a maximum of 50 swaps ( can be extended in code - hardcoded as of now , but would require more memory for more number of swaps - can support upto browser custom memory size )
 
 Video Link:
 
