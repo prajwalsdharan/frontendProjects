@@ -25,4 +25,4 @@ https://drive.google.com/file/d/1jhZ-YQcB_TlcSYpSe_c_Lfsfz92S_wMk/view?usp=shari
 
 Screenshot:
 
-![screenshot.png](https://github.com/prajwalsdharan/sliding_puzzle_game/blob/master/img/Screenshot.png)
+![screenshot.png](https://github.com/prajwalsdharan/sliding_puzzle_game/blob/master/img/screenshot.png)
