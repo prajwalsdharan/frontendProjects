@@ -1,9 +1,8 @@
 # Sliding Puzzle Game
 
-Steps to Download:
-1. Download the Zip File
-2. Open the index.html in browser of your choice ( Tested with Chrome )
-3. Click on "New Game" and Enjoy the Game
+Installation steps :
+1. Open the index.html in browser of your choice ( Tested with Chrome )
+2. Click on "New Game" and Enjoy the Game
 
 Note: The game would use some of your localStorage capabilities of your browser
 
